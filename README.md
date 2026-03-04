@@ -1,6 +1,8 @@
 # PredictingInfluenzaBurden_SupportingHealthcareStaffingDecisions_USA_Tableau
 Predicting Influenza Burden to Support Healthcare Staffing Decisions in the United States of America (2009–2017)
 
+Data Source (Public): Centers for Disease Control and Prevention
+
 Seasonal influenza continues to pose a significant challenge to healthcare systems across the United States. Each year, hospitals and clinics experience predictable surges in patient volume, placing strain on medical staff and resources. For healthcare staffing agencies, the ability to anticipate where and when these surges will occur is critical to ensuring continuity of care and protecting vulnerable populations. 
 
 This project analyzes influenza-caused mortality data from 2009 to 2017 to support proactive  staffing decisions. By examining geographic patterns, age-based risk, and seasonal trends, the  analysis aims to identify areas of consistently high burden and periods of increased demand. The findings provide evidence-based insights that staffing agencies can use to allocate resources more effectively. 
